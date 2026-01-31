@@ -1,8 +1,5 @@
 ## xMerch Launch Pad (PoC): Token Factory & Market Maker (MM v1) on Xahau
 
-## Project Title
-xMerch Launch Pad (PoC): Token Factory & Market Maker (MM v1) on Xahau
-
 ## Brief Description
 xMerch Launch Pad is a proof of concept focused on safe IOU token issuance and initial market bootstrap on the Xahau ledger. It enables builders to create IOU assets and form early on-ledger markets, with a lightweight DEX interface used only for discovery and swaps. The Market Maker (MM v1) is deterministic and admin-controlled for bootstrap purposes.
 
